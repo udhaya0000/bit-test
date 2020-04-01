@@ -1,0 +1,18 @@
+.slide-enter-active {
+  transition-duration: 0.3s;
+  transition-timing-function: ease-in;
+}
+
+.slide-leave-active {
+  transition-duration: 0.3s;
+}
+
+.slide-enter-to, .slide-leave {
+  overflow: hidden;
+  max-height: 100px;
+}
+
+.slide-enter, .slide-leave-to {
+  overflow: hidden;
+  max-height: 0;
+}

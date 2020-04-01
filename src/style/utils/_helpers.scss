@@ -1,0 +1,83 @@
+// spacer utils
+.mr_10 {
+  margin-right: 10px;
+}
+
+.mr_20 {
+  margin-right: 20px;
+}
+
+.ml_10 {
+  margin-left: 10px;
+}
+
+.ml_20 {
+  margin-left: 20px;
+}
+
+// transform utils
+.rotate-180 {
+  transform: rotate(180deg);
+}
+
+.rotate--180 {
+  transform: rotate(-180deg);
+}
+
+.rotate-270 {
+  transform: rotate(270deg);
+}
+
+.text-xs {
+  font-size: 0.625rem;
+}
+
+.icon-wrap {
+  align-items: center;
+  display: flex;
+  height: 1.35em;
+  justify-content: center;
+  width: 1.35em;
+}
+
+.bg-info-light {
+  background: $info-light;
+}
+
+.bg-danger-light {
+  background: $danger-light;
+}
+
+.medium {
+  font-size: 1rem;
+}
+
+.floating-btn {
+  position: fixed;
+  right: 10px;
+  bottom: 10px;
+}
+
+.small-text {
+  font-size: 12px;
+}
+
+.text-light {
+  color: $gray-500;
+}
+
+.box-shadow {
+  box-shadow: 0 8px 16px -8px rgba(140,142,137,0.24);
+}
+
+.checkbox-card {
+  padding: 10px 16px 10px 8px;
+}
+
+[role="button"] {
+  cursor: pointer;
+}
+
+.text-dull {
+  color: #8B959C;
+}
