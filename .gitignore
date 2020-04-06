@@ -6,6 +6,7 @@ output
 # local env files
 .env.local
 .env.*.local
+.bit/
 
 # Log files
 npm-debug.log*

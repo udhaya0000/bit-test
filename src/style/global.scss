@@ -1,8 +1,16 @@
-@import './vendors/fonts';
-@import '~bootstrap/scss/reboot';
-@import '~bootstrap/scss/type';
-@import '~bootstrap/scss/utilities';
+@import "~bootstrap/scss/_functions.scss";
+@import "~@/style/common/_bs-variables.scss";
+@import "~@/style/common/_variables.scss";
+@import "~bootstrap/scss/_variables.scss";
+@import "~bootstrap/scss/_mixins.scss";
+@import "~@/style/common/_mixins.scss";
 
-@import '~@/style/base/base';
-@import '~@/style/base/grid';
-@import '~@/style/components/title';
+@import './vendors/fonts';
+@import '~bootstrap/scss/_reboot';
+@import '~bootstrap/scss/_type';
+@import '~bootstrap/scss/_utilities';
+
+@import '~@/style/base/_base';
+@import '~@/style/base/_grid';
+@import '~@/style/components/_title';
+

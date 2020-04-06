@@ -17,10 +17,18 @@
   },
   {
     "id": {
-      "scope": "udhaya0000.admarket",
-      "name": "vee-field-error-msgs"
+      "scope": null,
+      "name": "global/style"
+    },
+    "isSymlink": true,
+    "hash": "c267a0af58a815f7e006ad81b75faa0dfceb71c3"
+  },
+  {
+    "id": {
+      "scope": "tallyb.test",
+      "name": "global/style"
     },
     "isSymlink": false,
-    "hash": "fc6576ce8dd86444ef708f8a548c2318992e79be"
+    "hash": "d9f1923c745da150d621fbf624f7aeb6eecebee2"
   }
 ]
